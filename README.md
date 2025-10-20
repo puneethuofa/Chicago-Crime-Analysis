@@ -36,6 +36,9 @@ The dataset contains detailed case-level information about criminal filings in C
 | `CHARGE TYPE` and `CLASS`                        | Classification of charges (e.g., Felony, Misdemeanor, etc.) |
 | `CHARGES STATUTE / DESCRIPTION`                  | Consolidated charge details for reporting                   |
 
+
+<img width="2048" height="149" alt="image" src="https://github.com/user-attachments/assets/d82d24fe-e456-47ff-9e67-f76d4cf42ee6" />
+
 ---
 
 ## ⚙️ Data Preparation
