@@ -146,7 +146,7 @@ It includes the following visual components:
 
 ## 📁 Deliverables
 
-* **Excel File:** `Chicago_Crime_Analysis.xlsx`
+* **Excel File:** `Chicago_Crime_Analysis.xlsx`  (The file was too large to upload) 
 * **Dashboard Preview:**
   ![Dashboard Preview](./Screenshot_Chicago_Crime_Dashboard.png)
 
